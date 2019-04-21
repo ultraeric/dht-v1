@@ -1,0 +1,10 @@
+node_modules
+certs
+.DS_Store
+static/images/homeSlidesBkup
+.idea
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
